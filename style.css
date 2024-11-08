@@ -9,6 +9,18 @@ body {
 }
 h1 {
     color: #1775c7;
+    align-items: center;
+}
+img { width: 150px;
+    height: 150px;
+}
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #6d9db0;
+    border-radius: 8px;
+    display: flex;
 }
 .comidas {
     padding: 10px;
@@ -16,16 +28,6 @@ h1 {
     border-radius: 5px;
     margin: 10px; 
     border: 10px solid #ddd;
-}
-img { width: 150px;
-    height: 150px;
-}
-.container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #6d9db0;
-    border-radius: 8px;
 }
 button{
     border-radius: 20px;
