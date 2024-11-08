@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    align-items: center;
+    background-color: #13b4ff;
+    color: #333;
+    text-align: center;
+    background-image: url('imagens/rest.jpg');
+
+}
+h1 {
+    color: #1775c7;
+}
+.comidas {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    margin: 10px; 
+    border: 10px solid #ddd;
+}
+img { width: 150px;
+    height: 150px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #6d9db0;
+    border-radius: 8px;
+}
+button{
+    border-radius: 20px;
+    color: white;
+    background-color: #6d9db0;
+    padding: 20px 40px;
+    margin: 10px; 
+}
