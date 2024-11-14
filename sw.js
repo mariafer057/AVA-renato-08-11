@@ -1,5 +1,5 @@
 let cacheName = "receitas";
-let filesToCache = ["/", "/index.html", "/massas", "/doces", "/carnes","/manifest.json",
+let filesToCache = ["/", "/index.html", "/massas", "/doces", "/carnes", "/manifest.json",
                     "/style.css", "/js/main.js"];
 /* inicializando a service worker e fazendo o
 download do conteúdo da aplicação */
